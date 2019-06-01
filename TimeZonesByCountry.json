@@ -1,0 +1,10 @@
+[
+    {
+        "country":"Sri Lanka",
+        "isoCountryCode":"LK",
+        "timeZones":[{
+            "timeZoneIdentifier":"Asia/Colombo"
+        }]
+    }
+
+]
