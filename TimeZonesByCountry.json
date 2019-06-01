@@ -1,10 +1,2307 @@
 [
+   
     {
-        "country":"Sri Lanka",
-        "isoCountryCode":"LK",
-        "timeZones":[{
-            "timeZoneIdentifier":"Asia/Colombo"
-        }]
+        "country": "Ascension Island",
+        "isoCountryCode": "AC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Andorra",
+        "isoCountryCode": "AD",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "United Arab Emirates",
+        "isoCountryCode": "AE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "isoCountryCode": "AF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Antigua & Barbuda",
+        "isoCountryCode": "AG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Anguilla",
+        "isoCountryCode": "AI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Albania",
+        "isoCountryCode": "AL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Armenia",
+        "isoCountryCode": "AM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Angola",
+        "isoCountryCode": "AO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Antarctica",
+        "isoCountryCode": "AQ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Argentina",
+        "isoCountryCode": "AR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "American Samoa",
+        "isoCountryCode": "AS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Austria",
+        "isoCountryCode": "AT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Australia",
+        "isoCountryCode": "AU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Aruba",
+        "isoCountryCode": "AW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Åland Islands",
+        "isoCountryCode": "AX",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Azerbaijan",
+        "isoCountryCode": "AZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bosnia & Herzegovina",
+        "isoCountryCode": "BA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Barbados",
+        "isoCountryCode": "BB",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "isoCountryCode": "BD",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Belgium",
+        "isoCountryCode": "BE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Burkina Faso",
+        "isoCountryCode": "BF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bulgaria",
+        "isoCountryCode": "BG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bahrain",
+        "isoCountryCode": "BH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Burundi",
+        "isoCountryCode": "BI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Benin",
+        "isoCountryCode": "BJ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "St Barthélemy",
+        "isoCountryCode": "BL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bermuda",
+        "isoCountryCode": "BM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Brunei",
+        "isoCountryCode": "BN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bolivia",
+        "isoCountryCode": "BO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "isoCountryCode": "BQ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Brazil",
+        "isoCountryCode": "BR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bahamas",
+        "isoCountryCode": "BS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "isoCountryCode": "BT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Bouvet Island",
+        "isoCountryCode": "BV",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Botswana",
+        "isoCountryCode": "BW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Belarus",
+        "isoCountryCode": "BY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Belize",
+        "isoCountryCode": "BZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Canada",
+        "isoCountryCode": "CA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cocos [Keeling] Islands",
+        "isoCountryCode": "CC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Congo - Kinshasa",
+        "isoCountryCode": "CD",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Central African Republic",
+        "isoCountryCode": "CF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Congo - Brazzaville",
+        "isoCountryCode": "CG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Switzerland",
+        "isoCountryCode": "CH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Côte d’Ivoire",
+        "isoCountryCode": "CI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cook Islands",
+        "isoCountryCode": "CK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Chile",
+        "isoCountryCode": "CL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cameroon",
+        "isoCountryCode": "CM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "China mainland",
+        "isoCountryCode": "CN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Colombia",
+        "isoCountryCode": "CO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Clipperton Island",
+        "isoCountryCode": "CP",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Costa Rica",
+        "isoCountryCode": "CR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cuba",
+        "isoCountryCode": "CU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cape Verde",
+        "isoCountryCode": "CV",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Curaçao",
+        "isoCountryCode": "CW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Christmas Island",
+        "isoCountryCode": "CX",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cyprus",
+        "isoCountryCode": "CY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Czechia",
+        "isoCountryCode": "CZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Germany",
+        "isoCountryCode": "DE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Diego Garcia",
+        "isoCountryCode": "DG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Djibouti",
+        "isoCountryCode": "DJ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Denmark",
+        "isoCountryCode": "DK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Dominica",
+        "isoCountryCode": "DM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Dominican Republic",
+        "isoCountryCode": "DO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Algeria",
+        "isoCountryCode": "DZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Ceuta & Melilla",
+        "isoCountryCode": "EA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Ecuador",
+        "isoCountryCode": "EC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Estonia",
+        "isoCountryCode": "EE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Egypt",
+        "isoCountryCode": "EG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Western Sahara",
+        "isoCountryCode": "EH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Eritrea",
+        "isoCountryCode": "ER",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Spain",
+        "isoCountryCode": "ES",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Ethiopia",
+        "isoCountryCode": "ET",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Finland",
+        "isoCountryCode": "FI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Fiji",
+        "isoCountryCode": "FJ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Falkland Islands",
+        "isoCountryCode": "FK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Micronesia",
+        "isoCountryCode": "FM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Faroe Islands",
+        "isoCountryCode": "FO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "France",
+        "isoCountryCode": "FR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Gabon",
+        "isoCountryCode": "GA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "isoCountryCode": "GB",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Grenada",
+        "isoCountryCode": "GD",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Georgia",
+        "isoCountryCode": "GE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "French Guiana",
+        "isoCountryCode": "GF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Guernsey",
+        "isoCountryCode": "GG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Ghana",
+        "isoCountryCode": "GH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Gibraltar",
+        "isoCountryCode": "GI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Greenland",
+        "isoCountryCode": "GL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Gambia",
+        "isoCountryCode": "GM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Guinea",
+        "isoCountryCode": "GN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Guadeloupe",
+        "isoCountryCode": "GP",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Equatorial Guinea",
+        "isoCountryCode": "GQ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Greece",
+        "isoCountryCode": "GR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "So. Georgia & So. Sandwich Isl.",
+        "isoCountryCode": "GS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Guatemala",
+        "isoCountryCode": "GT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Guam",
+        "isoCountryCode": "GU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Guinea-Bissau",
+        "isoCountryCode": "GW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Guyana",
+        "isoCountryCode": "GY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Hong Kong",
+        "isoCountryCode": "HK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Heard & McDonald Islands",
+        "isoCountryCode": "HM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Honduras",
+        "isoCountryCode": "HN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Croatia",
+        "isoCountryCode": "HR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Haiti",
+        "isoCountryCode": "HT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Hungary",
+        "isoCountryCode": "HU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Canary Islands",
+        "isoCountryCode": "IC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "isoCountryCode": "ID",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Ireland",
+        "isoCountryCode": "IE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Israel",
+        "isoCountryCode": "IL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Isle of Man",
+        "isoCountryCode": "IM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "India",
+        "isoCountryCode": "IN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "isoCountryCode": "IO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Iraq",
+        "isoCountryCode": "IQ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Iran",
+        "isoCountryCode": "IR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Iceland",
+        "isoCountryCode": "IS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Italy",
+        "isoCountryCode": "IT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Jersey",
+        "isoCountryCode": "JE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Jamaica",
+        "isoCountryCode": "JM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Jordan",
+        "isoCountryCode": "JO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "isoCountryCode": "JP",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Kenya",
+        "isoCountryCode": "KE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Kyrgyzstan",
+        "isoCountryCode": "KG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cambodia",
+        "isoCountryCode": "KH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Kiribati",
+        "isoCountryCode": "KI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Comoros",
+        "isoCountryCode": "KM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "St Kitts & Nevis",
+        "isoCountryCode": "KN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "North Korea",
+        "isoCountryCode": "KP",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "South Korea",
+        "isoCountryCode": "KR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Kuwait",
+        "isoCountryCode": "KW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Cayman Islands",
+        "isoCountryCode": "KY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Kazakhstan",
+        "isoCountryCode": "KZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Laos",
+        "isoCountryCode": "LA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Lebanon",
+        "isoCountryCode": "LB",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "St Lucia",
+        "isoCountryCode": "LC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Liechtenstein",
+        "isoCountryCode": "LI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Sri Lanka",
+        "isoCountryCode": "LK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": "Asia/Colombo"
+            }
+        ]
+    },
+    {
+        "country": "Liberia",
+        "isoCountryCode": "LR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Lesotho",
+        "isoCountryCode": "LS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Lithuania",
+        "isoCountryCode": "LT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Luxembourg",
+        "isoCountryCode": "LU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Latvia",
+        "isoCountryCode": "LV",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Libya",
+        "isoCountryCode": "LY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Morocco",
+        "isoCountryCode": "MA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Monaco",
+        "isoCountryCode": "MC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Moldova",
+        "isoCountryCode": "MD",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Montenegro",
+        "isoCountryCode": "ME",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "St Martin",
+        "isoCountryCode": "MF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Madagascar",
+        "isoCountryCode": "MG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Marshall Islands",
+        "isoCountryCode": "MH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Macedonia",
+        "isoCountryCode": "MK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Mali",
+        "isoCountryCode": "ML",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Myanmar [Burma]",
+        "isoCountryCode": "MM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "isoCountryCode": "MN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Macau",
+        "isoCountryCode": "MO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "isoCountryCode": "MP",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Martinique",
+        "isoCountryCode": "MQ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Mauritania",
+        "isoCountryCode": "MR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Montserrat",
+        "isoCountryCode": "MS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Malta",
+        "isoCountryCode": "MT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Mauritius",
+        "isoCountryCode": "MU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Maldives",
+        "isoCountryCode": "MV",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Malawi",
+        "isoCountryCode": "MW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Mexico",
+        "isoCountryCode": "MX",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "isoCountryCode": "MY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Mozambique",
+        "isoCountryCode": "MZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Namibia",
+        "isoCountryCode": "NA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "New Caledonia",
+        "isoCountryCode": "NC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Niger",
+        "isoCountryCode": "NE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Norfolk Island",
+        "isoCountryCode": "NF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Nigeria",
+        "isoCountryCode": "NG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Nicaragua",
+        "isoCountryCode": "NI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "isoCountryCode": "NL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Norway",
+        "isoCountryCode": "NO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Nepal",
+        "isoCountryCode": "NP",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Nauru",
+        "isoCountryCode": "NR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Niue",
+        "isoCountryCode": "NU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "isoCountryCode": "NZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Oman",
+        "isoCountryCode": "OM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Panama",
+        "isoCountryCode": "PA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Peru",
+        "isoCountryCode": "PE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "French Polynesia",
+        "isoCountryCode": "PF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Papua New Guinea",
+        "isoCountryCode": "PG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Philippines",
+        "isoCountryCode": "PH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "isoCountryCode": "PK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Poland",
+        "isoCountryCode": "PL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "St Pierre & Miquelon",
+        "isoCountryCode": "PM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Pitcairn Islands",
+        "isoCountryCode": "PN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Puerto Rico",
+        "isoCountryCode": "PR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Palestinian Territories",
+        "isoCountryCode": "PS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Portugal",
+        "isoCountryCode": "PT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Palau",
+        "isoCountryCode": "PW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Paraguay",
+        "isoCountryCode": "PY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Qatar",
+        "isoCountryCode": "QA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Réunion",
+        "isoCountryCode": "RE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Romania",
+        "isoCountryCode": "RO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Serbia",
+        "isoCountryCode": "RS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Russia",
+        "isoCountryCode": "RU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Rwanda",
+        "isoCountryCode": "RW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Saudi Arabia",
+        "isoCountryCode": "SA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Solomon Islands",
+        "isoCountryCode": "SB",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Seychelles",
+        "isoCountryCode": "SC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Sudan",
+        "isoCountryCode": "SD",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Sweden",
+        "isoCountryCode": "SE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Singapore",
+        "isoCountryCode": "SG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "St Helena",
+        "isoCountryCode": "SH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Slovenia",
+        "isoCountryCode": "SI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Svalbard & Jan Mayen",
+        "isoCountryCode": "SJ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Slovakia",
+        "isoCountryCode": "SK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Sierra Leone",
+        "isoCountryCode": "SL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "San Marino",
+        "isoCountryCode": "SM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Senegal",
+        "isoCountryCode": "SN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Somalia",
+        "isoCountryCode": "SO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Suriname",
+        "isoCountryCode": "SR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "South Sudan",
+        "isoCountryCode": "SS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "São Tomé & Príncipe",
+        "isoCountryCode": "ST",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "El Salvador",
+        "isoCountryCode": "SV",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Sint Maarten",
+        "isoCountryCode": "SX",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Syria",
+        "isoCountryCode": "SY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Swaziland",
+        "isoCountryCode": "SZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Tristan da Cunha",
+        "isoCountryCode": "TA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Turks & Caicos Islands",
+        "isoCountryCode": "TC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Chad",
+        "isoCountryCode": "TD",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "French Southern Territories",
+        "isoCountryCode": "TF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Togo",
+        "isoCountryCode": "TG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Thailand",
+        "isoCountryCode": "TH",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Tajikistan",
+        "isoCountryCode": "TJ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Tokelau",
+        "isoCountryCode": "TK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Timor-Leste",
+        "isoCountryCode": "TL",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Turkmenistan",
+        "isoCountryCode": "TM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Tunisia",
+        "isoCountryCode": "TN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Tonga",
+        "isoCountryCode": "TO",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Turkey",
+        "isoCountryCode": "TR",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Trinidad & Tobago",
+        "isoCountryCode": "TT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Tuvalu",
+        "isoCountryCode": "TV",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Taiwan",
+        "isoCountryCode": "TW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Tanzania",
+        "isoCountryCode": "TZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Ukraine",
+        "isoCountryCode": "UA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Uganda",
+        "isoCountryCode": "UG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "US Outlying Islands",
+        "isoCountryCode": "UM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "United States",
+        "isoCountryCode": "US",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Uruguay",
+        "isoCountryCode": "UY",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Uzbekistan",
+        "isoCountryCode": "UZ",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Vatican City",
+        "isoCountryCode": "VA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "St Vincent & Grenadines",
+        "isoCountryCode": "VC",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Venezuela",
+        "isoCountryCode": "VE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "British Virgin Islands",
+        "isoCountryCode": "VG",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "US Virgin Islands",
+        "isoCountryCode": "VI",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Vietnam",
+        "isoCountryCode": "VN",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Vanuatu",
+        "isoCountryCode": "VU",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Wallis & Futuna",
+        "isoCountryCode": "WF",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Samoa",
+        "isoCountryCode": "WS",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Kosovo",
+        "isoCountryCode": "XK",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Yemen",
+        "isoCountryCode": "YE",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Mayotte",
+        "isoCountryCode": "YT",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "South Africa",
+        "isoCountryCode": "ZA",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Zambia",
+        "isoCountryCode": "ZM",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
+    },
+    {
+        "country": "Zimbabwe",
+        "isoCountryCode": "ZW",
+        "timeZones": [
+            {
+                "timeZoneIdentifier": ""
+            }
+        ]
     }
-
 ]
