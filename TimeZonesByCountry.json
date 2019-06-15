@@ -401,7 +401,11 @@
         "isoCountryCode": "CI",
         "timeZones": [
             {
-                "timeZoneIdentifier": "Africa/Abidjan"
+                "timeZoneIdentifier": "Africa/Abidjan",
+                "coordinates":{
+                    "latitude":5.348617,
+                    "longitude":-4.0497055
+                }
             }
         ]
     },
