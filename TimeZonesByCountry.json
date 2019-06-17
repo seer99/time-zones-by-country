@@ -5,7 +5,8 @@
         "isoCountryCode": "AC",
         "timeZones": [
             {
-                "timeZoneIdentifier": ""
+                "timeZoneIdentifier": "test filter"
+
             }
         ]
     },
