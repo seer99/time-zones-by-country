@@ -694,7 +694,11 @@
         "isoCountryCode": "FM",
         "timeZones": [
             {
-                "timeZoneIdentifier": ""
+                "timeZoneIdentifier": "Pacific/Truk",
+                "coordinates":{
+                    "latitude":7.4178422,
+                    "longitude":151.447616
+                }
             }
         ]
     },
@@ -2152,7 +2156,11 @@
         "isoCountryCode": "US",
         "timeZones": [
             {
-                "timeZoneIdentifier": ""
+                "timeZoneIdentifier": "Pacific/Wake",
+                "coordinates":{
+                    "latitude":19.2898828,
+                    "longitude":166.6138514
+                }
             }
         ]
     },
@@ -2242,7 +2250,11 @@
         "isoCountryCode": "WF",
         "timeZones": [
             {
-                "timeZoneIdentifier": ""
+                "timeZoneIdentifier": "Pacific/Wallis",
+                "coordinates":{
+                    "latitude":-13.7719747,
+                    "longitude":-178.2841314
+                }
             }
         ]
     },
